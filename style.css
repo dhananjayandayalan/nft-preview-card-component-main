@@ -67,7 +67,7 @@ body {
 
 .card .title {
   font-size: 2.4rem;
-  padding: 2rem 0;
+  padding: 2.4rem 0;
 }
 
 .card .title a {
@@ -83,7 +83,7 @@ body {
   font-size: 1.8rem;
   color: var(--soft-blue);
   line-height: 1.5;
-  padding-bottom: 2rem;
+  padding-bottom: 2.4rem;
 }
 
 .card .details {
@@ -91,7 +91,7 @@ body {
   justify-content: space-between;
   font-size: 1.6rem;
   color: var(--soft-blue);
-  padding-bottom: 2rem;
+  padding-bottom: 2.4rem;
   border-bottom: 1px solid var(--very-dark-blue-line);
 }
 
@@ -107,7 +107,7 @@ body {
 }
 
 .card .author {
-  padding-top: 2rem;
+  padding: 2.4rem 0;
   display: flex;
   align-items: center;
   font-size: 1.8rem;
